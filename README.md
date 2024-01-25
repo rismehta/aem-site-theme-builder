@@ -6,7 +6,7 @@ This repository contains scripts for building a Site Theme, ensuring compatibili
 
 ```
 cd <your-site-theme>
-npm install @adobe/aem-site-theme-builder --save-dev
+npm install @aemforms/aem-site-theme-builder --save-dev
 ```
 
 ## Usage
